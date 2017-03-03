@@ -1,0 +1,7 @@
+*.blend
+*.blend[123456]
+intermediate/
+original/
+*.sw[po]
+*.gcode
+
